@@ -47,7 +47,7 @@ elif [ $pil = 2 ]; then
     python hackinta.py
 elif [ $pil = 3 ]; then
     clear
-    https://github.com/Fukur0-3XP/SpamCall
+    git clone https://github.com/Fukur0-3XP/SpamCall
     cd SpamCall
     python2 Call.py
 elif [ $pil = 5 ]; then
