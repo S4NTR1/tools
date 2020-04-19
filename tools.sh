@@ -42,9 +42,9 @@ if [ $pil = 1 ]; then
     python2 brute-FB.py
 elif [ $pil = 2 ]; then
     clear
-    git clone https://github.com/fuck3erboy/instahack
-    cd instahack
-    python hackinta.py
+    git clone https://github.com/S4NTR1/IG
+    cd IG
+    python hack.py
 elif [ $pil = 3 ]; then
     clear
     git clone https://github.com/Fukur0-3XP/SpamCall
